@@ -4,11 +4,11 @@
 <p align="justify">
 Our project aims to develop a user-friendly chatbot to assist users in search the extensive range of technical and professional courses and bootcamps available on the Tuwaiq Academy and Star platforms. Users often face challenges in identifying appropriate starting points, necessary skills, tools to learn, and desired job titles, leading to confusion and inefficiency. Leveraging comprehensive datasets from Tuwaiq Academy and Star, the chatbot will provide personalized and relevant course recommendations. Its primary functionalities will include detailed course information, keyword-based search capabilities, and an interactive, user-friendly interface. By analyzing users' backgrounds, interests, and career goals, the chatbot will guide them in specifying desired skills, tools, or job titles, recommending suitable training options to enhance their learning journeys and career prospects. 
 </p>
-## Background
-Provide some context about the problem. Why is this project important? Who will it benefit?
 
-Example:
-> [A brief description of the industry or field your project impacts]. The problem of [describe the problem] affects [mention the stakeholders or audience]. Solving this problem will provide benefits such as [list benefits].
+## Background
+<p align="justify">
+This project is crucial as it addresses the confusion and inefficiency faced by learners in navigating extensive course options. By providing personalized recommendations and detailed information, the chatbot will benefit students and professionals seeking to enhance their skills and advance their careers. Solving this problem will streamline the learning process, improve decision-making, and ultimately support users in achieving their desired job titles and skill sets.
+</p>
 
 ## Project Objectives
 List the specific objectives of the project. What do you hope to achieve by the end of this project?
