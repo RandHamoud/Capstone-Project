@@ -1,7 +1,7 @@
 # Final Project Proposal: [Project Title]
 
 ## Introduction
-Briefly introduce the purpose of this document and provide an overview of the project. Explain the motivation behind choosing this project and its relevance to the field of data science.
+Our project aims to develop a user-centric chatbot to assist users in navigating the extensive range of technical and professional courses and bootcamps available on the Tuwaiq Academy and Star platforms. Users often face challenges in identifying appropriate starting points, necessary skills, tools to learn, and desired job titles, leading to confusion and inefficiency. Leveraging comprehensive datasets from Tuwaiq Academy and Star, the chatbot will provide personalized and relevant course recommendations. Its primary functionalities will include detailed course information, keyword-based search capabilities, and an interactive, user-friendly interface. By analyzing users' backgrounds, interests, and career goals, the chatbot will guide them in specifying desired skills, tools, or job titles, recommending suitable training options to enhance their learning journeys and career prospects.
 
 Example:
 > This document serves as the proposal for my final project in the Data Science Bootcamp. The project, titled "[Project Title]", aims to address [a specific problem or question]. This project is chosen due to its potential impact on [related field or industry], and its alignment with my career goals.
