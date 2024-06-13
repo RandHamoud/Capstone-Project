@@ -7,7 +7,7 @@ Our project aims to develop a user-friendly chatbot to assist users in search th
 
 ## Background
 <p align="justify">
-This project is crucial as it addresses the confusion and inefficiency faced by learners in navigating extensive course options. By providing personalized recommendations and detailed information, the chatbot will benefit students and professionals seeking to enhance their skills and advance their careers. Solving this problem will streamline the learning process, improve decision-making, and ultimately support users in achieving their desired job titles and skill sets.
+The field of technical and professional education is rapidly expanding, yet users often struggle to identify the right courses and bootcamps to meet their career goals. This project is crucial as it addresses the confusion and inefficiency faced by learners in navigating extensive course options. By providing personalized recommendations and detailed information, the chatbot will benefit students and professionals seeking to enhance their skills and advance their careers. Solving this problem will streamline the learning process, improve decision-making, and ultimately support users in achieving their desired job titles and skill sets.
 </p>
 
 ## Project Objectives
