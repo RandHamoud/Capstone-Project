@@ -37,6 +37,11 @@ In conclusion, our project aims to leverage data science techniques to help user
 </p>
 
 ## Future Improvements:
+- To develop an Intelligent Recommendation System ”Chatbot”.
+- To provide Detailed Course Information.
+- To enhance learning journeys.
+- To facilitate career advancement.
+- To assist in identifying skills and job titles
 
 ## Contact Information
 **Group Members:**
