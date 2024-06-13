@@ -24,7 +24,7 @@ The primary dataset for this project will be sourced from the Tuwaiq Academy and
     - Used tools: Utilizing Python libraries such as Pandas and NumPy.
 - **Model Development**:
     - Analytical techniques: Developed a recommendation system "chatbot". 
-    - Used tools: Weaviate vector database andchainlit.
+    - Used tools: Weaviate vector database and chainlit.
 
 ## Results
 <p align="justify">
