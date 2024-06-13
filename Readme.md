@@ -20,11 +20,11 @@ The primary dataset for this project will be sourced from the Tuwaiq Academy and
 
 ## Methodology
 - **Data Cleaning and Preprocessing**:
-    - Analytical techniques: 
+    - Analytical techniques: Handling missing values.
     - Used tools: Utilizing Python libraries such as Pandas and NumPy.
 - **Model Development**:
-    - Analytical techniques: mention what you have applied here
-    - Used tools: Applying machine learning algorithms with Scikit-learn to develop the predictive model.
+    - Analytical techniques: Developed a recommendation system "chatbot". 
+    - Used tools: Weaviate vector database andchainlit.
 
 ## Results
 <p align="justify">
@@ -37,16 +37,9 @@ In conclusion, our project aims to leverage data science techniques to help user
 </p>
 
 ## Future Improvements:
-Suggest enhancements and strategies that could be implemented to further develop the project, aiming to achieve more precise and robust outcomes.
 
 ## Contact Information
 **Group Members:**
-- Raghad Alharbi
-- Rand Alharbi
-- Ruba Alhajri
-
-- [Name]([URL](https://www.google.com/search?q=weaviate+vector+database+%D9%85%D8%A7%D9%87%D9%8A&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQg2MzgwajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8))
-
----
-
-Remember to tailor each section to your specific project and add any additional sections that might be relevant such as ethical considerations, limitations, etc.
+- <a href="https://www.linkedin.com/in/rand-alharbii/">Rand Alharbi</a> 
+- <a href="">Raghad Alharbi</a> 
+- <a href="https://www.linkedin.com/in/ruba-alhajri/">Ruba Alhajri</a> 
