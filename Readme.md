@@ -48,3 +48,6 @@ In conclusion, our project aims to leverage data science techniques to help user
 - <a href="https://www.linkedin.com/in/rand-alharbii/">Rand Alharbi</a> 
 - <a href="http://linkedin.com/in/raghad-rs-alharbi">Raghad Alharbi</a> 
 - <a href="https://www.linkedin.com/in/ruba-alhajri/">Ruba Alhajri</a> 
+
+
+[Click here to view the demo](Demo2.mov)
