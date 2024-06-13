@@ -19,10 +19,9 @@ Example:
 - To develop a user-friendly interface for stakeholders to interact with the findings.
 
 ## Data Sources
-Describe the datasets you will use, including their sources, reliability, and any preprocessing steps you plan to take.
-
-Example:
-> The primary dataset for this project will be sourced from [source], which consists of [describe data, e.g., number of entries, fields]. This dataset is chosen for its [mention reasons like comprehensiveness, reliability, etc.]. Preliminary preprocessing will include [mention any cleaning, transformations, or reductions planned].
+<p align="justify">
+The primary dataset for this project will be sourced from the Tuwaiq Academy and Star platforms, encompassing detailed information about courses and bootcamps. The Tuwaiq dataset comprises 24 rows and 13 columns, while the Star dataset includes 124 rows and 8 columns. These datasets have been chosen for their comprehensiveness and reliability, providing a robust foundation for developing an intelligent recommendation system and personalized learning paths.
+</p>
 
 ## Methodology
 Outline the methods and technologies you will use in your project. This section can include both the analytical techniques and the tools/software about the following:
