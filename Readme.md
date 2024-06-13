@@ -11,12 +11,7 @@ The field of technical and professional education is rapidly expanding, yet user
 </p>
 
 ## Project Objectives
-List the specific objectives of the project. What do you hope to achieve by the end of this project?
 
-Example:
-- To build a predictive model that can accurately predict [mention what you are predicting].
-- To analyze the correlation between [mention variables] and [mention outcome].
-- To develop a user-friendly interface for stakeholders to interact with the findings.
 
 ## Data Sources
 <p align="justify">
@@ -24,49 +19,33 @@ The primary dataset for this project will be sourced from the Tuwaiq Academy and
 </p>
 
 ## Methodology
-Outline the methods and technologies you will use in your project. This section can include both the analytical techniques and the tools/software about the following:
-
-- Data Cleaning and Preprocessing
-- Feature Engineering: Outline the steps taken to manipulate or create new features to improve model performance.
-- Hyperparameter Optimization: Explain the process and methods used to fine-tune model hyperparameters.
-- Performance Metric Visuals: Include charts or graphs that illustrate the performance of each model across various metrics.
-- Best Model Determination: Explain the criteria for selecting the best-performing model.
-- Feature and Prediction Insights: Offer an interpretation of how different features influence the model's predictions.
-- Model Development
-  
-Example:
 - **Data Cleaning and Preprocessing**:
-    - Analytical techniques: mention what you have applied here
+    - Analytical techniques: 
     - Used tools: Utilizing Python libraries such as Pandas and NumPy.
 - **Model Development**:
     - Analytical techniques: mention what you have applied here
     - Used tools: Applying machine learning algorithms with Scikit-learn to develop the predictive model.
-- **Validation and Testing**: 
-    - Analytical techniques: mention what you have applied here
-    - Used tools: Using cross-validation techniques to ensure the robustness of the model.
 
 ## Results
-Describe what results you anticipated from your project.
-
-Example:
-> By the conclusion of this project, I expect to develop a predictive model that achieves an accuracy rate of at least [mention target percentage]. Additionally, the insights derived from the data will help in understanding [mention what the insights will help understand or decide].
+<p align="justify">
+By the conclusion of this project, we anticipate developing a chatbot that delivers personalized course recommendations with a high accuracy rate, effectively addressing user needs. Additionally, we expect the insights derived from user interactions and data analysis to enhance our understanding of learning preferences and career aspirations, thereby improving the overall user experience and facilitating better decision-making in educational pursuits.
+</p>
 
 ## Conclusion
-Summarize your proposal and reiterate the importance of your project.
-
-Example:
-> In conclusion, [Project Title] aims to leverage data science techniques to address [mention the problem or question again]. This project is expected to yield [restate key benefits or findings]. I am excited about the potential impacts of this project and look forward to exploring [mention any specific aspect of the project].
+<p align="justify">
+In conclusion, our project aims to leverage data science techniques to help users search the courses and bootcamps on Tuwaiq Academy and Star platforms. By developing a user-friendly chatbot, we will provide personalized recommendations and detailed course information. This project will improve decision-making, streamline learning processes, and enhance career advancement opportunities. I am excited about the potential impacts of this project and look forward to exploring how our chatbot can transform the learning experience and support users in achieving their desired job titles and skill sets.
+</p>
 
 ## Future Improvements:
 Suggest enhancements and strategies that could be implemented to further develop the project, aiming to achieve more precise and robust outcomes.
 
 ## Contact Information
-Provide your contact information for further communication.
-
 **Group Members:**
-- First Member
-- Second Member
-- Third Member
+- Raghad Alharbi
+- Rand Alharbi
+- Ruba Alhajri
+
+- [Name]([URL](https://www.google.com/search?q=weaviate+vector+database+%D9%85%D8%A7%D9%87%D9%8A&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQg2MzgwajBqN6gCCLACAQ&sourceid=chrome&ie=UTF-8))
 
 ---
 
