@@ -15,7 +15,7 @@ The field of technical and professional education is rapidly expanding, yet user
 
 ## Data Sources
 <p align="justify">
-The primary dataset for this project will be sourced from the Tuwaiq Academy and Star platforms, encompassing detailed information about courses and bootcamps. The Tuwaiq dataset comprises 24 rows and 13 columns, while the Star dataset includes 124 rows and 8 columns. These datasets have been chosen for their comprehensiveness and reliability, providing a robust foundation for developing an intelligent recommendation system and personalized learning paths.
+The primary dataset for this project will be sourced from the Tuwaiq Academy and Star platforms, encompassing detailed information about courses and bootcamps. The Tuwaiq dataset comprises 31 rows and 13 columns, while the Star dataset includes 124 rows and 8 columns. These datasets have been chosen for their comprehensiveness and reliability, providing a robust foundation for developing an intelligent recommendation system and personalized learning paths.
 </p>
 
 ## Methodology
@@ -41,5 +41,5 @@ In conclusion, our project aims to leverage data science techniques to help user
 ## Contact Information
 **Group Members:**
 - <a href="https://www.linkedin.com/in/rand-alharbii/">Rand Alharbi</a> 
-- <a href="">Raghad Alharbi</a> 
+- <a href="http://linkedin.com/in/raghad-rs-alharbi">Raghad Alharbi</a> 
 - <a href="https://www.linkedin.com/in/ruba-alhajri/">Ruba Alhajri</a> 
